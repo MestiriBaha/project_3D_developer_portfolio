@@ -44,6 +44,11 @@ export const navLinks = [
     title: "Sign Up",
 
 
+  },
+  {
+    id : "Advice",
+    title :"Recommend Me"
+
   }
 ];
 
