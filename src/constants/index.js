@@ -32,12 +32,19 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
+    title: "Jobs",
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "For Employers",
+
   },
+  {
+    id: "login",
+    title: "Sign Up",
+
+
+  }
 ];
 
 const services = [
