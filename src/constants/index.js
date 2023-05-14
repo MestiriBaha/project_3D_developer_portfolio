@@ -54,34 +54,34 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "For job seekers",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "For employees",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "For employers",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "For Advice seekers",
     icon: creator,
   },
 ];
 
 const technologies = [
   {
-    name: "HTML 5",
+    name: "ODDO Bhf",
     icon: html,
   },
   {
-    name: "CSS 3",
+    name: "AxeFinance",
     icon: css,
   },
   {
-    name: "JavaScript",
+    name: "BNP PARIBAS",
     icon: javascript,
   },
   {
@@ -128,55 +128,63 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Visit the Talent Match website and click on the sign up button",
+    company_name: "",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Fill out the registration form.",
+    company_name: "",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Add your resume, work experience, education, and skills.",
+    company_name: "",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Get job  recommendations that match your qualifications and preferences.",
+    company_name: "",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+     
+    ],
+  },
+  {
+    title: "Apply for the ones that interest you.",
+    company_name: "Take advantage of Talent Match's recommended training programs.",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "",
+    points: [
+     
+    ],
+  },
+  {
+    title: "Take advantage of Talent Match's recommended training programs.",
+    company_name: "",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "",
+    points: [
+     
     ],
   },
 ];
@@ -184,46 +192,47 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "I never thought finding the right job for me could be this easy and personalized!",
+    name: "Ons Kallel",
+    designation: "Recent bachelor graduate",
+    company: " Esprit ",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "The platform matched me with my dream job and helped me land an interview!",
+    name: "Ahmed Jarraya",
+    designation: "Devops Engineer",
+    company: "Amazon",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "thanks to the training recommendations on the platform, I was able to gain new skills and find better job opportunities.",
+    name: "Wassim belgacem",
+    designation: "Software engineer",
+    company: "AxeFinance",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "JOBS Best places to work 2023 Revealed",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    "Over the past year, working professionals have been leaving their jobs for better opportunities, resisting “return to office” directives, and pushing for improvements from their employers — including more flexibility on where and when to work, better pay, improved work-life balance",
+
     tags: [
       {
-        name: "react",
+        name: "JOBS",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Employee",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Employer",
         color: "pink-text-gradient",
       },
     ],
@@ -231,41 +240,41 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Workplace Trends 2023",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
+      "The trends identified will persist beyond the near-term fluctuations in the business cycle, and the companies that focus on them will ensure their workplace survives, even thrives, into the future",
+      tags: [
+        {
+          name: "JOBS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Employee",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Employer",
+          color: "pink-text-gradient",
+        },
+      ],
     image: jobit,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Checklist for increasing your chances of making the Best Places to Work list",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    "Since the beginning, it has honored companies who are doing right by their employees - as told to us by employees. You can say it's the People's Choice of employer awards. ",
     tags: [
       {
-        name: "nextjs",
+        name: "JOBS",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Employee",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Employer",
         color: "pink-text-gradient",
       },
     ],
