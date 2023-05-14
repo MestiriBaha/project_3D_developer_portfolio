@@ -25,6 +25,7 @@ import {
   threejs,
 } from "../assets";
 
+
 export const navLinks = [
   {
     id: "about",
@@ -130,7 +131,7 @@ const experiences = [
   {
     title: "Visit the Talent Match website and click on the sign up button",
     company_name: "",
-    icon: starbucks,
+    icon: meta,
     iconBg: "#383E56",
     date: "",
     points: [
@@ -140,7 +141,7 @@ const experiences = [
   {
     title: "Fill out the registration form.",
     company_name: "",
-    icon: tesla,
+    icon: meta,
     iconBg: "#E6DEDD",
     date: "",
     points: [
@@ -150,7 +151,7 @@ const experiences = [
   {
     title: "Add your resume, work experience, education, and skills.",
     company_name: "",
-    icon: shopify,
+    icon: meta,
     iconBg: "#383E56",
     date: "",
     points: [

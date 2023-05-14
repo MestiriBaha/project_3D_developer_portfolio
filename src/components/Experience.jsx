@@ -61,12 +61,10 @@ const Experience = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={`${styles.sectionSubText} text-center`}>
-        Let's get to work
-
+        How to join us
         </p>
         <h2 className={`${styles.sectionHeadText} text-center`}>
-        What we do !
-        </h2>
+        The steps to a personalized job search experience        </h2>
       </motion.div>
 
       <div className='mt-20 flex flex-col'>
